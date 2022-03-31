@@ -1,4 +1,4 @@
-# This is a playground for practicing C language
+# This is a playing ground for practicing C language
 
 - Basics
 - Functions
