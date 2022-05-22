@@ -10,8 +10,8 @@ int _printf(const char * const format, ...)
  va_start(args, format);
 while (format[i] != '\0')
 {
-if (_putchar(format[i]))
- n_display += 1;
+   if (_putchar(format[i]))
+    n_display += 1;
 
  i++;
 }
