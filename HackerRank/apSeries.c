@@ -132,7 +132,7 @@ int find_val(int i, int j, int n)
     {
         if (dist[i] < val)
             val = dist[i];
-    
+    s
     }
     
     return (n - val);
